@@ -32,7 +32,6 @@ function App() {
 
 
   return (
-    <div className="App">
       <div class="container">
         <div class="converter-row"> 
             <div class="col"> 
@@ -48,8 +47,7 @@ function App() {
                 <input type="number" id="kelvin"/> 
             </div> 
         </div> 
-    </div> 
-    </div>
+      </div> 
   );
 }
 
